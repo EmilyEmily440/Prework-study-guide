@@ -19,8 +19,11 @@ height: 120 px;
 }
 p{text-align: center;
 font-size: 30px;}
+
 ul{ padding-left: 40px;
 font-size: 20px;}
+
 h1, h2{ text-align: center;}
+
 *{ margin:0;
 padding:0;}
