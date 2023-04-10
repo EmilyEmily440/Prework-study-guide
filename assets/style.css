@@ -5,19 +5,22 @@
     box-shadow: 5px 10px #888888;
   }
 .center { display: grid;
-width:20%;
+height:50px;
+width: 50px;
 margin: auto;
 place-items: center;
 }
-header{ width: 100%;
+header , footer{ width: 100%;
 padding: 60px 0;
 text-align: center;
 background:blue;
 color: white;
+height: 120 px;
 }
-footer{ width: 100%;
-padding: 40px 0;
-text-align: center;
-background:blue;
-color: white;
-}
+p{text-align: center;
+font-size: 30px;}
+ul{ padding-left: 40px;
+font-size: 20px;}
+h1, h2{ text-align: center;}
+*{ margin:0;
+padding:0;}
